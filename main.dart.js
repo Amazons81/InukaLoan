@@ -26630,7 +26630,7 @@ $S:2}
 A.aoy.prototype={
 $1(a){var s=A.cZ().b
 s=s==null?null:s.canvasKitBaseUrl
-return(s==null?"https://www.gstatic.com/flutter-canvaskit/327ed814500baca0480a02f8555aa84a9afe32bf/":s)+a},
+return(s==null?"https://www.gstatic.com/flutter-canvaskit/425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb/":s)+a},
 $S:90}
 A.K3.prototype={
 gu(a){var s=this.a
@@ -82545,7 +82545,7 @@ return null},
 $S:0}
 A.pB.prototype={
 ai(){var s=t.N,r=t.z
-return new A.UE(A.c([A.aj(["amount","Ksh 5,500","fee","100"],s,r),A.aj(["amount","Ksh 7,000","fee","130"],s,r),A.aj(["amount","Ksh 8,500","fee","170"],s,r),A.aj(["amount","Ksh 10,500","fee","230"],s,r),A.aj(["amount","Ksh 12,200","fee","270"],s,r)],t.H7))}}
+return new A.UE(A.c([A.aj(["amount","Ksh 5,500","fee","100"],s,r),A.aj(["amount","Ksh 7,000","fee","150"],s,r),A.aj(["amount","Ksh 8,500","fee","170"],s,r),A.aj(["amount","Ksh 10,500","fee","230"],s,r),A.aj(["amount","Ksh 12,200","fee","270"],s,r)],t.H7))}}
 A.UE.prototype={
 A9(a){return this.aoD(a)},
 aoD(a){var s=0,r=A.O(t.H),q=1,p=[],o=[],n=this,m,l,k,j,i,h,g
